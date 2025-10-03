@@ -1,3 +1,4 @@
 # Pipelines
-A simple practical to understand the concept of pipelines..
+A simple practical to understand the concept of pipelines
+
 ............................................................
